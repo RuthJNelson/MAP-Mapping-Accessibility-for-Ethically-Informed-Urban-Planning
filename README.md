@@ -1,5 +1,7 @@
 ## MAP: Mapping Accessibility for Ethically Informed Urban Planning
 
+DOI:10.5281/zenodo.14500637
+
 
 This Software Package contains the Python Notebooks associated with Nelson, Warnier and Verma’s paper, "Ethically informed urban planning: measuring distributive spatial justice for neighbourhood accessibility", 2024 (forthcoming). This software package corresponds to the Methodology as documented in their paper. It allows for:
 
