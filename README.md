@@ -24,7 +24,10 @@ This excel file contains a list of all example notebooks and their descriptions
 
 2. Notebooks
 
-This contains the Notebooks for each case study which are in 3 sub-folders:
+This contains the Notebooks for each case study which are in 3 sub-folders, with the processes visualised in Figure 2.
+
+<img width="453" alt="image" src="https://github.com/user-attachments/assets/ab24da37-8ed1-42df-b79f-eb6679cf5d51" />
+Figure 2: Processes followed by each notebook folder
 
 **Graph Preparation:**
 This is a folder which contains example jupyter notebooks which contain example code for preparing the Urban Network Model. Refer to the Notebook descriptions in the Metadata for a description of each notebook.
