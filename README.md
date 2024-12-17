@@ -18,7 +18,7 @@ There are four folders in this Repository:
 This contains relevant Metadata for the project for each case study, which pertains to data structure and sources of data, as well as purposes of different notebooks. A description of the files are below:
 
 **Data Dictionary.xlxs:**
-This excel file contains data dictionarues of the variables that are included in the shape file which contains the nodes and the edges for the final Neighbourhood Reach Centrality calculations. It explains what each of the variables means as well as the format it is in, i.e. string, float etc.It also contains data dictionaries for the structure of each data set which would be required, specifically referencing the sample data sets of Cape Town, which can be downloaded from:
+This excel file contains data dictionarues of the variables that are included in the shape file which contains the nodes and the edges for the final Neighbourhood Reach Centrality calculations. It explains what each of the variables means as well as the format it is in, i.e. string, float etc.It also contains data dictionaries for the structure of each data set which would be required, specifically referencing the sample data sets of Cape Town, which can be downloaded from: https://data.4tu.nl/datasets/c34ff74b-30ce-4ed2-9e45-1910ca3e3470
 
 **Notebook descriptions.xlxs:**
 This excel file contains a list of all example notebooks and their descriptions
