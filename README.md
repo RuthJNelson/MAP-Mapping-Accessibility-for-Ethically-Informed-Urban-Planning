@@ -40,7 +40,7 @@ This is a folder which contains an example jupyter notebook which contains examp
 This contains an example jupyter notebooks which contains example code for calculating the Spatial Justice Metrics.
 To calculate the Spatial Justice metrics the Neighbourhood Reach Centrality for each neighbourhood needs to be known.
 
-3. py file
+3.Py_folder
 
 This contains the py file with the Reach and Spatial Justice functions, to be imported into the notebooks.
 
