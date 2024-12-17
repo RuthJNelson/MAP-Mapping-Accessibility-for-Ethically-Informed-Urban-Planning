@@ -2,8 +2,7 @@
 
 DOI:10.5281/zenodo.14500637
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/cc074470-a630-4bdb-b217-dcc335a5297d" />
-
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/b51c1773-f2e5-4070-8598-51964433f790" />
 
 This Software Package contains the Python Notebooks associated with Nelson, Warnier and Verma’s paper, "Ethically informed urban planning: measuring distributive spatial justice for neighbourhood accessibility", 2024 (forthcoming). This software package corresponds to the Methodology as documented in their paper. It allows for:
 
