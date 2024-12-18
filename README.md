@@ -31,13 +31,13 @@ This contains the Notebooks for each case study which are in 3 sub-folders, with
 Figure 2: Processes followed by each notebook folder.
 
 **Graph Preparation:**
-This is a folder which contains example jupyter notebooks which contain example code for preparing the Urban Network Model. Refer to the Notebook descriptions in the Metadata for a description of each notebook.
+This is a folder which contains jupyter notebooks which have code for preparing the Urban Network Model. Refer to the Notebook descriptions in the Metadata for a description of each notebook.
 
 **Reach Calculations:**
-This is a folder which contains an example jupyter notebook which contains example code for calculating Neighbourhood Reach Centrality.
+This is a folder which contains a jupyter notebook which has code for calculating Neighbourhood Reach Centrality.
 
 **Spatial Justice Calculations:**
-This contains an example jupyter notebooks which contains example code for calculating the Spatial Justice Metrics.
+This contains a jupyter notebook which has code for calculating the Spatial Justice Metrics.
 To calculate the Spatial Justice metrics the Neighbourhood Reach Centrality for each neighbourhood needs to be known.
 
 3.Py_folder
